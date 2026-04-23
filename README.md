@@ -2,7 +2,7 @@
 
 A real-time, in-store collaborative shopping platform designed to help physical shoppers combine their purchases, unlock bulk merchant discounts, and dynamically split the final bill. 
 
-When shoppers are in the same physical store but don't individually meet the threshold for volume deals (e.g., "Buy 2 Get 1 Free" or "$50 Off Orders Over $200"), Buddy-Cart allows them to join a shared digital session. Users can collaboratively add items to a synchronized cart, apply custom merchant offers, and let the application calculate a fair, proportionate split of the discounted total based on exactly what each person contributed.
+When shoppers are in the same physical store but don't individually meet the threshold for volume deals (e.g., "Buy 2 Get 1 Free" or "50% Off Orders Over 2000"), Buddy-Cart allows them to join a shared digital session. Users can collaboratively add items to a synchronized cart, apply custom merchant offers, and let the application calculate a fair, proportionate split of the discounted total based on exactly what each person contributed.
 
 ## 🚀 Key Features
 
